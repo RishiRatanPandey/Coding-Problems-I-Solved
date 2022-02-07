@@ -1,2 +1,2 @@
 # Coding-Problems-I-Solved
-all progress of programming journey 
+all progress of my programming journey 
