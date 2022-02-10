@@ -1,1 +1,1 @@
-if u like this repo pls star this repo.
+#if u like this repo pls star this repo.
