@@ -1,2 +1,1 @@
-# Coding-Problems-I-Solved
-all progress of my programming journey 
+if u like this repo pls star this repo.
