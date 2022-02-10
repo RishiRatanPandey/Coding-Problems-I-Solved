@@ -1,7 +1,6 @@
 # ex1:-from:https://adriann.github.io/programming_problems.html from section list,string
 '''
 problem statement:-Write a function that takes a number and returns 
-
 a list of its digits.So for 2342 it should return [2,3,4,2]
 '''
 # def ex1():
